@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://charlyautomatiza.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://charlyautomatiza.github.io/task-management-frontend/static/js/main.bc9ef8ae.chunk.js",
-    "main.js.map": "https://charlyautomatiza.github.io/task-management-frontend/static/js/main.bc9ef8ae.chunk.js.map",
+    "main.js": "https://charlyautomatiza.github.io/task-management-frontend/static/js/main.7d561601.chunk.js",
+    "main.js.map": "https://charlyautomatiza.github.io/task-management-frontend/static/js/main.7d561601.chunk.js.map",
     "runtime~main.js": "https://charlyautomatiza.github.io/task-management-frontend/static/js/runtime~main.37b5816e.js",
     "runtime~main.js.map": "https://charlyautomatiza.github.io/task-management-frontend/static/js/runtime~main.37b5816e.js.map",
-    "static/js/2.a621b5d4.chunk.js": "https://charlyautomatiza.github.io/task-management-frontend/static/js/2.a621b5d4.chunk.js",
-    "static/js/2.a621b5d4.chunk.js.map": "https://charlyautomatiza.github.io/task-management-frontend/static/js/2.a621b5d4.chunk.js.map",
+    "static/js/2.f8f589d4.chunk.js": "https://charlyautomatiza.github.io/task-management-frontend/static/js/2.f8f589d4.chunk.js",
+    "static/js/2.f8f589d4.chunk.js.map": "https://charlyautomatiza.github.io/task-management-frontend/static/js/2.f8f589d4.chunk.js.map",
     "index.html": "https://charlyautomatiza.github.io/task-management-frontend/index.html",
-    "precache-manifest.02228d2c86ad8d817ca52a4a55ff499b.js": "https://charlyautomatiza.github.io/task-management-frontend/precache-manifest.02228d2c86ad8d817ca52a4a55ff499b.js",
+    "precache-manifest.fd3d94d60a7d393582408a6202d75591.js": "https://charlyautomatiza.github.io/task-management-frontend/precache-manifest.fd3d94d60a7d393582408a6202d75591.js",
     "service-worker.js": "https://charlyautomatiza.github.io/task-management-frontend/service-worker.js",
     "static/css/main.5ac26d30.chunk.css.map": "https://charlyautomatiza.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
